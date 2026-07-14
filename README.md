@@ -1,10 +1,4 @@
-# 🛡️ AlgoShield AI
 
-![Algorand](https://img.shields.io/badge/Algorand-000?style=for-the-badge&logo=algorand)
-![AI-Powered](https://img.shields.io/badge/AI--Powered-00ff88?style=for-the-badge)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![MIT](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
 
 # 🛡️ AlgoShield AI
 
